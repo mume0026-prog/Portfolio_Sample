@@ -105,14 +105,14 @@ img {
 ------------------------------- */
 .cover {
 /*    background-color: #343a40;  画像がない場合の代替色 */
-    background-image: url("../../IMG_7742.jpg");
+    background-image: url("../images/IMG_7742.jpg");
     background-size: cover;
     background-position: center;
     height: 600px;
 }
 .sub-cover {
 /*    background-color: #495057;*/
-    background-image: url("../../sub_cover.jpg");
+    background-image: url("../images/sub_cover.jpg");
     background-size: cover;
     background-position: center;
     height: 350px;
@@ -121,7 +121,7 @@ img {
 
 .sub-cover2 {
 /*    background-color: #495057;*/
-    background-image: url("../../sub2.jpg");
+    background-image: url("../images/sub2.jpg");
     background-size: cover;
     background-position: center;
     height: 350px;
